@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+    <head>
+        <title>title</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Contact Me</h1>
+        <h2>Please fill out the form in a decent maners.</h2>
+    </body>
+</html>
+<form action="https://drive.google.com/drive/home" method="post" target="_blank">
+<label for="name">name:</label><br>
+<input type="text" id="name" name="entry, your_name_field_ID" required><br><br>
+
+<label for="phone">Phone Number:</label><br>
+<input type="tell" id="phone" name="entry, your_phone number_field_ID" required><br><br>
+
+<label for="organization">organization:</label><br>
+<input type="text" id="organization" name="entry, your_organization_field_ID" required><br><br>
+
+<label for="DOB">Date of birth:</label><br>
+<input type="date" id="Dod" name="entry, your_DOD_field_ID" required><br><br>
+
+<label for="Address">Address:</label><br>
+<input type="text" id="address" name="entry,your_Adress_field_ID" required><br><br>
+
+<label for="State">state:</label><br>
+<input type="text" id="State" name="entry,your_State_field_ID" required><br><br>
+
+<label for="city">city:</label><br>
+<input type="text" id="city" name="entry,your_city_field_ID" required><br><br>
+
+<input type="submit" value="submit">
+</form>
+
+<p>you can also contact me at:</p>
+<ul>
+<li>Phone number:(704)705-6945</li>
+<li>instagram<a href="https://www.instagram.com/jpvtk10" target="_blank">@jpvtk10</a></li>
+<li>snapchat: jpvtk</li>
+<li>TikTok: jpvtk</li>
+</ul>
+</body>
+</html>
